@@ -1,5 +1,8 @@
 #!/usr/bin/env node
 
+// https://stackoverflow.com/a/25018453
+// http://blog.webbb.be/command-not-found-node-npm/
+
 const inquirer = require("inquirer");
 const chalk = require("chalk");
 const figlet = require("figlet");
