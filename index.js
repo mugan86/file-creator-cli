@@ -60,8 +60,7 @@ const run = async () => {
 
   // ask questions
   const answers = await askQuestions();
-
-  console.log(answers);
+  
   const { FILENAME, EXTENSION } = answers;
 
   // create the file
