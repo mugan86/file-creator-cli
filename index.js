@@ -33,7 +33,7 @@ const askQuestions = () => {
       type: "list",
       name: "EXTENSION",
       message: "What is the file extension?",
-      choices: [".rb", ".js", ".php", ".css"],
+      choices: [".rb", ".js", ".php", ".css", ".ts", ".java", ".kt", ".txt", ".xml"],
       filter: function(val) {
         return val.split(".")[1];
       }
