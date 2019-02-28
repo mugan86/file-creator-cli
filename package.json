@@ -6,7 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "cli",
+    "rb",
+    "php",
+    "node",
+    "js",
+    "ruby",
+    "ts",
+    "typescript",
+    "css",
+    "cli-creator"
+  ],
   "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
   "license": "MIT",
   "dependencies": {
